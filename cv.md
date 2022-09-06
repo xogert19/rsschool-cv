@@ -30,3 +30,12 @@ function greeting(name) {
 ## 6. Work experience
 
 I have no work experience at all, I've just started this JS Front-End course at RSS.
+
+## 7. Education
+
+- 11 grades of school
+- JS Front-End course at RSS
+
+## 8. English
+
+My English level is A1.
